@@ -1,6 +1,6 @@
 # Mabuhay! 👧🏻🇵🇭👋🏼    
 
-*Hi, I am Kriska!*
+**Hi, I am Kriska!**   
 I’m a full-stack web designer with a background in UX & UI design and digital marketing.    
 
 <!---
