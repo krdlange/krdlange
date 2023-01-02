@@ -3,7 +3,7 @@
 **I’m a full-stack web developer with a background in UX & UI design and digital marketing.**   
     
 ### Recent work:   
-* [Arcadia(https://github.com/krdlange/arcadia)] - Solo Project  
+* [Arcadia](https://github.com/krdlange/arcadia) - Solo Project  
 * Instasitter - Feature Extension Project   
 * Recipe Haul - Group Project   
    
