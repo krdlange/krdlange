@@ -2,7 +2,7 @@
 
 **I’m a full-stack web developer with a background in UX & UI design and digital marketing.**   
     
-### Recent work :   
+### Recent work:   
 * Arcadia - Solo Project   
 * Instasitter - Feature Extension Project   
 * Recipe Haul - Group Project   
