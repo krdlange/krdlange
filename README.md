@@ -5,7 +5,7 @@
 ### Recent work:   
 * [Arcadia](https://github.com/krdlange/arcadia) - Solo Project  
 * Instasitter - Feature Extension Project   
-* Recipe Haul - Group Project   
+* [Recipe Haul](https://github.com/CodeOp-tech/FSPT12-final-project) - Group Project   
    
 ### Current tech stack:   
 * Javascript(ES6+)   
