@@ -1,6 +1,6 @@
 # Hi, I am Kriska! 👧🏻🇵🇭👋🏼    
 
-**I’m a full-stack web developer with a background in UX & UI design and digital marketing.**   
+**I’m a full-stack web developer with experience in UX & UI design and digital marketing.**   
     
 ### Recent work:   
 * [Arcadia](https://github.com/krdlange/arcadia) - Solo Project  
