@@ -4,15 +4,14 @@
     
 ### Recent work:   
 * [Arcadia](https://github.com/krdlange/arcadia) - Solo Project  
-* Instasitter - Feature Extension Project   
-* Recipe Haul - Group Project   
+* [Recipe Haul](https://github.com/CodeOp-tech/FSPT12-final-project) - Group Project   
    
-### Current tech stack:   
+### Technical skills:   
 * Javascript(ES6+)   
 * React.js   
 * Node.js   
 * MySQL   
-* Web APIs   
+* RestAPI   
 
 <!---
 krdlange/krdlange is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
