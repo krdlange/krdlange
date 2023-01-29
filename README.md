@@ -4,7 +4,8 @@
     
 ### Recent work:   
 * [Arcadia](https://github.com/krdlange/arcadia) - Solo Project  
-* [Recipe Haul](https://github.com/CodeOp-tech/FSPT12-final-project) - Group Project   
+* [Recipe Haul](https://github.com/CodeOp-tech/FSPT12-final-project) - Group Project  
+* [My web portfolio](https://kdl-portfolio.vercel.app/) 
    
 ### Technical skills:   
 * Javascript(ES6+)   
