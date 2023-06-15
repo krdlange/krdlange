@@ -6,7 +6,7 @@ I am proficient in HTML, CSS, and JavaScript, and I have a working knowledge of 
     
 ### Recent work:   
 * [Arcadia](https://github.com/krdlange/arcadia) - Solo Project  
-* [Recipe Haul](https://github.com/CodeOp-tech/FSPT12-final-project) - Group Project  
+* [Recipe Haul](https://github.com/krdlange/recipehaul) - Group Project  
 * [My web portfolio](https://kdelange-portfolio.vercel.app/) 
 
 
